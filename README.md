@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-PDF-blue.svg)](https://github.com/Skoolk/Curriculum/blob/main/.img/CV%20-%202026%20English.pdf)
+
 Curriculum Mateo Ortega
 =======================
 
